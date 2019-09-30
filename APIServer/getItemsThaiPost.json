@@ -1,0 +1,36 @@
+{
+    "say": {
+        "message": "สวัสดีชาวโลก"
+    },
+    "getItems":{
+        "response": {
+            "items_return": {
+                "ED852942182TH": [
+                    {
+                        "barcode": "ED852942182TH",
+                        "status": "103",
+                        "status_description": "รับฝาก",
+                        "status_date": "19/07/2562 18:12:26+07:00",
+                        "location": "คต.กาดสวนแก้ว",
+                        "postcode": "00131"
+                    },
+                    {
+                        "barcode": "ED852942182TH",
+                        "status": "201",
+                        "status_description": "ส่งออกจากที่ทำการกลางทาง",
+                        "status_date": "20/07/2562 15:12:15+07:00",
+                        "location": "คต.กาดสวนแก้ว",
+                        "postcode": "00131"
+                    }
+                ]
+            },
+            "track_count": {
+                "track_date": "27/08/2562",
+                "count_number": 48,
+                "track_count_limit": 1500
+            }
+        },
+        "message": "successful",
+        "status": true
+    }
+}
